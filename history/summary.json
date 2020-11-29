@@ -5,15 +5,15 @@
     "slug": "ceresana",
     "status": "up",
     "uptime": "100.00%",
-    "time": 946
+    "time": 954
   },
   {
     "name": "Siriderma-Shop",
     "url": "https://shop.siriderma.de",
     "slug": "siriderma-shop",
     "status": "up",
-    "uptime": "99.52%",
-    "time": 3067
+    "uptime": "99.61%",
+    "time": 3045
   },
   {
     "name": "Siriderma",
@@ -21,7 +21,7 @@
     "slug": "siriderma",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1099
+    "time": 1112
   },
   {
     "name": "Apodeko",
@@ -29,6 +29,6 @@
     "slug": "apodeko",
     "status": "up",
     "uptime": "100.00%",
-    "time": 876
+    "time": 879
   }
 ]
