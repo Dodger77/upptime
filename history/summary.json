@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 1285,
-    "timeWeek": 940,
-    "timeMonth": 944,
-    "timeYear": 944
+    "time": 943,
+    "timeDay": 936,
+    "timeWeek": 925,
+    "timeMonth": 943,
+    "timeYear": 943
   },
   {
     "name": "Siriderma-Shop",
     "url": "https://shop.siriderma.de",
     "slug": "siriderma-shop",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 3183,
-    "timeDay": 2633,
-    "timeWeek": 2944,
-    "timeMonth": 3183,
-    "timeYear": 3183
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 3166,
+    "timeDay": 2838,
+    "timeWeek": 2955,
+    "timeMonth": 3166,
+    "timeYear": 3166
   },
   {
     "name": "Siriderma",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 1243,
-    "timeWeek": 1144,
-    "timeMonth": 1117,
-    "timeYear": 1117
+    "time": 1112,
+    "timeDay": 1035,
+    "timeWeek": 1112,
+    "timeMonth": 1112,
+    "timeYear": 1112
   },
   {
     "name": "Apodeko",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 872,
-    "timeWeek": 848,
-    "timeMonth": 865,
-    "timeYear": 865
+    "time": 875,
+    "timeDay": 1057,
+    "timeWeek": 868,
+    "timeMonth": 875,
+    "timeYear": 875
   }
 ]
