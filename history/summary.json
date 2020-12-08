@@ -2,6 +2,7 @@
   {
     "name": "Ceresana",
     "url": "https://www.ceresana.com",
+    "icon": "https://favicons.githubusercontent.com/www.ceresana.com",
     "slug": "ceresana",
     "status": "up",
     "uptime": "100.00%",
@@ -9,31 +10,37 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 936,
-    "timeWeek": 925,
-    "timeMonth": 943,
-    "timeYear": 943
+    "time": 949,
+    "timeDay": 1080,
+    "timeWeek": 991,
+    "timeMonth": 949,
+    "timeYear": 949,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Siriderma-Shop",
     "url": "https://shop.siriderma.de",
+    "icon": "https://favicons.githubusercontent.com/shop.siriderma.de",
     "slug": "siriderma-shop",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 3166,
-    "timeDay": 2838,
-    "timeWeek": 2955,
-    "timeMonth": 3166,
-    "timeYear": 3166
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 3108,
+    "timeDay": 2166,
+    "timeWeek": 3009,
+    "timeMonth": 3108,
+    "timeYear": 3108,
+    "dailyMinutesDown": {
+      "2020-11-25": 32
+    }
   },
   {
     "name": "Siriderma",
     "url": "https://www.siriderma.de",
+    "icon": "https://favicons.githubusercontent.com/www.siriderma.de",
     "slug": "siriderma",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +48,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1035,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112
+    "time": 1108,
+    "timeDay": 1015,
+    "timeWeek": 1117,
+    "timeMonth": 1108,
+    "timeYear": 1108,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apodeko",
     "url": "https://www.apodeko.de",
+    "icon": "https://favicons.githubusercontent.com/www.apodeko.de",
     "slug": "apodeko",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 1057,
-    "timeWeek": 868,
-    "timeMonth": 875,
-    "timeYear": 875
+    "time": 870,
+    "timeDay": 728,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
+    "dailyMinutesDown": {}
   }
 ]
