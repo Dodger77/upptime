@@ -12,6 +12,12 @@ sites:
     url: https://www.siriderma.de
   - name: Apodeko
     url: https://www.apodeko.de
+  - name: Holzfinis
+    url: https://www.holzfinis.de
+  - name: vpAgentur
+    url: https://www.vp-agentur.de
+  - name: Fantasy Heaven
+    url: https://www.fantasy-heaven.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
