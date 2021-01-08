@@ -115,9 +115,9 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://favicons.githubusercontent.com/www.fantasy-heaven.de",
     "slug": "fantasy-heaven",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,6 +126,8 @@
     "timeWeek": 1043,
     "timeMonth": 1007,
     "timeYear": 1007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-08": 0
+    }
   }
 ]
