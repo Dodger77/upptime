@@ -22,9 +22,9 @@
     "url": "https://shop.siriderma.de",
     "icon": "https://favicons.githubusercontent.com/shop.siriderma.de",
     "slug": "siriderma-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -34,6 +34,7 @@
     "timeMonth": 2762,
     "timeYear": 2807,
     "dailyMinutesDown": {
+      "2021-01-31": 0,
       "2020-12-29": 106,
       "2020-11-25": 32
     }
@@ -43,9 +44,9 @@
     "url": "https://www.siriderma.de",
     "icon": "https://favicons.githubusercontent.com/www.siriderma.de",
     "slug": "siriderma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +55,9 @@
     "timeWeek": 973,
     "timeMonth": 985,
     "timeYear": 1030,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-31": 0
+    }
   },
   {
     "name": "Apodeko",
@@ -116,11 +119,11 @@
     "icon": "https://favicons.githubusercontent.com/www.fantasy-heaven.de",
     "slug": "fantasy-heaven",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.31%",
     "time": 1112,
     "timeDay": 1016,
     "timeWeek": 1062,
