@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 888,
-    "timeDay": 774,
-    "timeWeek": 906,
-    "timeMonth": 927,
-    "timeYear": 887,
+    "timeDay": 775,
+    "timeWeek": 904,
+    "timeMonth": 891,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2021-09-27": 25
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/shop.siriderma.de",
     "slug": "siriderma-shop",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 3592,
-    "timeDay": 6608,
-    "timeWeek": 4030,
-    "timeMonth": 3772,
+    "time": 3590,
+    "timeDay": 2739,
+    "timeWeek": 3635,
+    "timeMonth": 3629,
     "timeYear": 3601,
     "dailyMinutesDown": {
       "2021-05-14": 34,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1087,
-    "timeDay": 1254,
-    "timeWeek": 1105,
-    "timeMonth": 1094,
-    "timeYear": 1087,
+    "timeDay": 1240,
+    "timeWeek": 1135,
+    "timeMonth": 1091,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-02-01": 636,
       "2021-01-31": 499
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 804,
-    "timeWeek": 816,
-    "timeMonth": 832,
+    "timeDay": 742,
+    "timeWeek": 797,
+    "timeMonth": 827,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2021-06-08": 19
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1796,
-    "timeDay": 946,
-    "timeWeek": 3558,
-    "timeMonth": 4558,
-    "timeYear": 1796,
+    "time": 1821,
+    "timeDay": 10129,
+    "timeWeek": 4864,
+    "timeMonth": 4849,
+    "timeYear": 1821,
     "dailyMinutesDown": {
       "2021-06-08": 19
     }
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 675,
-    "timeWeek": 644,
-    "timeMonth": 670,
+    "timeDay": 654,
+    "timeWeek": 641,
+    "timeMonth": 667,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2021-06-08": 18
@@ -135,9 +135,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 1058,
-    "timeDay": 1029,
-    "timeWeek": 989,
-    "timeMonth": 1057,
+    "timeDay": 986,
+    "timeWeek": 991,
+    "timeMonth": 1049,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2021-11-07": 16,
