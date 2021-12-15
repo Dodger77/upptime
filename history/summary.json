@@ -24,10 +24,10 @@
     "url": "https://shop.siriderma.de",
     "icon": "https://favicons.githubusercontent.com/shop.siriderma.de",
     "slug": "siriderma-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.75%",
     "time": 3523,
@@ -36,6 +36,7 @@
     "timeMonth": 2741,
     "timeYear": 3559,
     "dailyMinutesDown": {
+      "2021-12-15": 1,
       "2021-11-30": 38,
       "2021-05-14": 34,
       "2021-02-01": 636,
@@ -89,9 +90,9 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://favicons.githubusercontent.com/www.holzfinis.de",
     "slug": "holzfinis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,6 +102,7 @@
     "timeMonth": 4061,
     "timeYear": 1889,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-06-08": 19
     }
   },
