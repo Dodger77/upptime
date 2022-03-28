@@ -4,18 +4,19 @@
     "url": "https://www.ceresana.com",
     "icon": "https://favicons.githubusercontent.com/www.ceresana.com",
     "slug": "ceresana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.09%",
+    "uptimeDay": "97.91%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 911,
-    "timeDay": 946,
+    "timeDay": 969,
     "timeWeek": 1129,
     "timeMonth": 1121,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2022-03-28": 0,
       "2022-03-27": 56,
       "2021-09-27": 25
     }
