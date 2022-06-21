@@ -75,19 +75,19 @@
     "url": "https://www.apodeko.de",
     "icon": "https://favicons.githubusercontent.com/www.apodeko.de",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "62.61%",
-    "uptimeWeek": "64.59%",
-    "uptimeMonth": "88.44%",
+    "uptimeDay": "63.30%",
+    "uptimeWeek": "64.89%",
+    "uptimeMonth": "88.50%",
     "uptimeYear": "99.04%",
     "time": 863,
-    "timeDay": 847,
-    "timeWeek": 884,
+    "timeDay": 846,
+    "timeWeek": 885,
     "timeMonth": 885,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2022-06-21": 213,
+      "2022-06-21": 214,
       "2022-06-20": 529,
       "2022-06-19": 616,
       "2022-06-18": 383,
@@ -96,7 +96,7 @@
       "2022-06-15": 650,
       "2022-06-14": 654,
       "2022-06-13": 872,
-      "2022-06-12": 334
+      "2022-06-12": 306
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://favicons.githubusercontent.com/www.holzfinis.de",
     "slug": "holzfinis",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "63.06%",
-    "uptimeWeek": "65.27%",
-    "uptimeMonth": "88.35%",
-    "uptimeYear": "99.03%",
-    "time": 1813,
-    "timeDay": 1029,
-    "timeWeek": 1069,
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "63.79%",
+    "uptimeWeek": "65.57%",
+    "uptimeMonth": "88.49%",
+    "uptimeYear": "99.04%",
+    "time": 1814,
+    "timeDay": 1015,
+    "timeWeek": 1070,
     "timeMonth": 1079,
     "timeYear": 1911,
     "dailyMinutesDown": {
-      "2022-06-21": 212,
+      "2022-06-21": 213,
       "2022-06-20": 523,
       "2022-06-19": 610,
       "2022-06-18": 379,
@@ -125,7 +125,7 @@
       "2022-06-15": 629,
       "2022-06-14": 647,
       "2022-06-13": 868,
-      "2022-06-12": 451
+      "2022-06-12": 388
     }
   },
   {
@@ -133,15 +133,15 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://favicons.githubusercontent.com/www.vp-agentur.de",
     "slug": "vp-agentur",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "63.52%",
-    "uptimeWeek": "65.66%",
-    "uptimeMonth": "88.47%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "64.28%",
+    "uptimeWeek": "65.95%",
+    "uptimeMonth": "88.61%",
+    "uptimeYear": "99.05%",
     "time": 705,
-    "timeDay": 690,
-    "timeWeek": 720,
+    "timeDay": 688,
+    "timeWeek": 721,
     "timeMonth": 723,
     "timeYear": 704,
     "dailyMinutesDown": {
@@ -154,7 +154,7 @@
       "2022-06-15": 624,
       "2022-06-14": 643,
       "2022-06-13": 859,
-      "2022-06-12": 446
+      "2022-06-12": 384
     }
   },
   {
