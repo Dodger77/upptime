@@ -75,18 +75,19 @@
     "url": "https://www.apodeko.de",
     "icon": "https://favicons.githubusercontent.com/www.apodeko.de",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "64.00%",
-    "uptimeWeek": "65.41%",
-    "uptimeMonth": "90.38%",
+    "uptimeDay": "69.68%",
+    "uptimeWeek": "67.26%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "99.20%",
     "time": 868,
-    "timeDay": 879,
+    "timeDay": 884,
     "timeWeek": 898,
     "timeMonth": 891,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2022-06-26": 1,
       "2022-06-25": 581,
       "2022-06-24": 472,
       "2022-06-23": 523,
@@ -95,8 +96,7 @@
       "2022-06-20": 529,
       "2022-06-19": 616,
       "2022-06-18": 383,
-      "2022-06-17": 263,
-      "2022-06-16": 16
+      "2022-06-17": 263
     }
   },
   {
@@ -104,18 +104,19 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://favicons.githubusercontent.com/www.holzfinis.de",
     "slug": "holzfinis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "64.38%",
-    "uptimeWeek": "66.10%",
-    "uptimeMonth": "90.37%",
+    "uptimeDay": "70.10%",
+    "uptimeWeek": "67.95%",
+    "uptimeMonth": "90.43%",
     "uptimeYear": "99.20%",
-    "time": 1846,
-    "timeDay": 1076,
+    "time": 1847,
+    "timeDay": 1086,
     "timeWeek": 1086,
     "timeMonth": 1082,
     "timeYear": 1809,
     "dailyMinutesDown": {
+      "2022-06-26": 1,
       "2022-06-25": 574,
       "2022-06-24": 469,
       "2022-06-23": 488,
@@ -125,7 +126,7 @@
       "2022-06-19": 610,
       "2022-06-18": 379,
       "2022-06-17": 245,
-      "2022-06-16": 114
+      "2022-06-16": 88
     }
   },
   {
@@ -133,18 +134,19 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://favicons.githubusercontent.com/www.vp-agentur.de",
     "slug": "vp-agentur",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "64.78%",
-    "uptimeWeek": "66.64%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "70.52%",
+    "uptimeWeek": "68.50%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "99.21%",
     "time": 713,
-    "timeDay": 771,
+    "timeDay": 778,
     "timeWeek": 741,
     "timeMonth": 733,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2022-06-26": 0,
       "2022-06-25": 569,
       "2022-06-24": 462,
       "2022-06-23": 482,
@@ -154,7 +156,7 @@
       "2022-06-19": 606,
       "2022-06-18": 371,
       "2022-06-17": 240,
-      "2022-06-16": 148
+      "2022-06-16": 112
     }
   },
   {
