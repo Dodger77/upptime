@@ -75,19 +75,19 @@
     "url": "https://www.apodeko.de",
     "icon": "https://favicons.githubusercontent.com/www.apodeko.de",
     "slug": "apodeko",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "66.08%",
-    "uptimeWeek": "67.29%",
-    "uptimeMonth": "89.38%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "68.43%",
+    "uptimeWeek": "67.65%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "99.14%",
     "time": 871,
-    "timeDay": 866,
-    "timeWeek": 885,
+    "timeDay": 874,
+    "timeWeek": 886,
     "timeMonth": 885,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-07-08": 137,
+      "2022-07-08": 138,
       "2022-07-07": 595,
       "2022-07-06": 557,
       "2022-07-05": 497,
@@ -97,7 +97,7 @@
       "2022-07-01": 643,
       "2022-06-30": 397,
       "2022-06-29": 547,
-      "2022-06-28": 183
+      "2022-06-28": 73
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://favicons.githubusercontent.com/www.holzfinis.de",
     "slug": "holzfinis",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "66.49%",
-    "uptimeWeek": "67.67%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "68.88%",
+    "uptimeWeek": "68.03%",
+    "uptimeMonth": "89.53%",
+    "uptimeYear": "99.13%",
     "time": 1681,
-    "timeDay": 1041,
-    "timeWeek": 1081,
+    "timeDay": 1051,
+    "timeWeek": 1082,
     "timeMonth": 1076,
     "timeYear": 1637,
     "dailyMinutesDown": {
-      "2022-07-08": 137,
+      "2022-07-08": 138,
       "2022-07-07": 585,
       "2022-07-06": 554,
       "2022-07-05": 493,
@@ -127,7 +127,7 @@
       "2022-07-01": 638,
       "2022-06-30": 377,
       "2022-06-29": 542,
-      "2022-06-28": 204
+      "2022-06-28": 182
     }
   },
   {
@@ -135,15 +135,15 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://favicons.githubusercontent.com/www.vp-agentur.de",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "66.93%",
-    "uptimeWeek": "68.50%",
-    "uptimeMonth": "89.52%",
+    "uptimeDay": "69.34%",
+    "uptimeWeek": "68.86%",
+    "uptimeMonth": "89.57%",
     "uptimeYear": "99.13%",
     "time": 719,
-    "timeDay": 694,
-    "timeWeek": 749,
+    "timeDay": 702,
+    "timeWeek": 750,
     "timeMonth": 738,
     "timeYear": 721,
     "dailyMinutesDown": {
@@ -157,7 +157,7 @@
       "2022-07-01": 616,
       "2022-06-30": 371,
       "2022-06-29": 538,
-      "2022-06-28": 281
+      "2022-06-28": 257
     }
   },
   {
