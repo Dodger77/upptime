@@ -49,9 +49,9 @@
     "url": "https://www.hansainvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hansainvest.com.ico",
     "slug": "hansainvest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 1212,
     "timeMonth": 1277,
     "timeYear": 1277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   },
   {
     "name": "Apodeko",
