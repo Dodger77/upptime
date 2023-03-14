@@ -49,10 +49,10 @@
     "url": "https://www.apodeko.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 878,
@@ -61,6 +61,7 @@
     "timeMonth": 862,
     "timeYear": 880,
     "dailyMinutesDown": {
+      "2023-03-14": 1,
       "2022-07-13": 154,
       "2022-07-12": 534,
       "2022-07-11": 548,
@@ -71,7 +72,7 @@
       "2022-07-06": 557,
       "2022-07-05": 497,
       "2022-07-04": 407,
-      "2022-07-03": 167
+      "2022-07-03": 143
     }
   },
   {
@@ -79,10 +80,10 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.holzfinis.de.ico",
     "slug": "holzfinis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 1461,
@@ -91,6 +92,7 @@
     "timeMonth": 1148,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2023-03-14": 1,
       "2022-07-13": 152,
       "2022-07-12": 511,
       "2022-07-11": 544,
@@ -101,7 +103,7 @@
       "2022-07-06": 554,
       "2022-07-05": 493,
       "2022-07-04": 400,
-      "2022-07-03": 183
+      "2022-07-03": 164
     }
   },
   {
@@ -109,18 +111,19 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vp-agentur.de.ico",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 721,
     "timeDay": 695,
     "timeWeek": 691,
     "timeMonth": 660,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2023-03-14": 0,
       "2022-07-13": 150,
       "2022-07-12": 479,
       "2022-07-11": 539,
@@ -131,7 +134,7 @@
       "2022-07-06": 547,
       "2022-07-05": 488,
       "2022-07-04": 380,
-      "2022-07-03": 313
+      "2022-07-03": 273
     }
   },
   {
