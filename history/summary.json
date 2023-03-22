@@ -31,18 +31,20 @@
     "url": "https://fondswelt.hansainvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/fondswelt.hansainvest.com.ico",
     "slug": "hi-fondswelt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1334,
-    "timeDay": 1555,
-    "timeWeek": 1316,
-    "timeMonth": 1311,
-    "timeYear": 1334,
-    "dailyMinutesDown": {}
+    "time": 1321,
+    "timeDay": 1171,
+    "timeWeek": 1250,
+    "timeMonth": 1294,
+    "timeYear": 1321,
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   },
   {
     "name": "Apodeko",
