@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2412,
-    "timeDay": 2401,
-    "timeWeek": 2825,
+    "time": 2416,
+    "timeDay": 2796,
+    "timeWeek": 2809,
     "timeMonth": 2756,
-    "timeYear": 3074,
+    "timeYear": 3078,
     "dailyMinutesDown": {
       "2023-06-10": 46,
       "2023-02-02": 21,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1293,
-    "timeDay": 866,
-    "timeWeek": 1217,
-    "timeMonth": 1179,
-    "timeYear": 1293,
+    "time": 1294,
+    "timeDay": 1397,
+    "timeWeek": 1243,
+    "timeMonth": 1184,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2023-03-22": 23
     }
@@ -55,15 +55,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 860,
-    "timeDay": 667,
-    "timeWeek": 807,
-    "timeMonth": 781,
-    "timeYear": 859,
-    "dailyMinutesDown": {
-      "2022-07-13": 154
-    }
+    "timeDay": 803,
+    "timeWeek": 803,
+    "timeMonth": 783,
+    "timeYear": 855,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Holzfinis",
@@ -75,15 +73,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1111,
-    "timeDay": 789,
-    "timeWeek": 974,
+    "uptimeYear": "99.97%",
+    "time": 1118,
+    "timeDay": 995,
+    "timeWeek": 965,
     "timeMonth": 937,
-    "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2022-07-13": 152
-    }
+    "timeYear": 1121,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vpAgentur",
@@ -95,15 +91,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 709,
-    "timeDay": 563,
-    "timeWeek": 946,
-    "timeMonth": 721,
-    "timeYear": 712,
-    "dailyMinutesDown": {
-      "2022-07-13": 150
-    }
+    "uptimeYear": "99.97%",
+    "time": 712,
+    "timeDay": 714,
+    "timeWeek": 828,
+    "timeMonth": 725,
+    "timeYear": 709,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fantasy Heaven",
@@ -117,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1015,
-    "timeDay": 579,
-    "timeWeek": 833,
-    "timeMonth": 1013,
+    "timeDay": 909,
+    "timeWeek": 834,
+    "timeMonth": 1006,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2023-05-25": 19,
