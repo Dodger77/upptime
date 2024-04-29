@@ -65,9 +65,9 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.holzfinis.de.ico",
     "slug": "holzfinis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 1534,
     "timeMonth": 1197,
     "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "vpAgentur",
