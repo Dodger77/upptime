@@ -65,18 +65,19 @@
     "url": "https://www.holzfinis.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.holzfinis.de.ico",
     "slug": "holzfinis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1146,
+    "time": 1147,
     "timeDay": 2252,
     "timeWeek": 1901,
     "timeMonth": 1755,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-04-29": 18
     }
   },
