@@ -53,10 +53,10 @@
     "url": "https://www.apodeko.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 817,
@@ -64,25 +64,28 @@
     "timeWeek": 823,
     "timeMonth": 796,
     "timeYear": 825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 1
+    }
   },
   {
     "name": "Holzfinis",
     "url": "https://www.holzfinis.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.holzfinis.de.ico",
     "slug": "holzfinis",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1403,
+    "time": 1404,
     "timeDay": 1455,
     "timeWeek": 1666,
     "timeMonth": 1781,
     "timeYear": 1533,
     "dailyMinutesDown": {
+      "2024-11-05": 1,
       "2024-10-12": 16,
       "2024-09-08": 23,
       "2024-05-20": 20,
@@ -94,9 +97,9 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vp-agentur.de.ico",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +108,9 @@
     "timeWeek": 635,
     "timeMonth": 648,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Fantasy Heaven",
