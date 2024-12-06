@@ -34,18 +34,19 @@
     "url": "https://fondswelt.hansainvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/fondswelt.hansainvest.com.ico",
     "slug": "hi-fondswelt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1222,
+    "time": 1223,
     "timeDay": 1860,
     "timeWeek": 1182,
-    "timeMonth": 1206,
+    "timeMonth": 1211,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2024-12-06": 0,
       "2024-01-30": 16
     }
   },
