@@ -34,9 +34,9 @@
     "url": "https://fondswelt.hansainvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/fondswelt.hansainvest.com.ico",
     "slug": "hi-fondswelt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -46,6 +46,7 @@
     "timeMonth": 1257,
     "timeYear": 1204,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2024-12-06": 17,
       "2024-01-30": 16
     }
@@ -57,17 +58,16 @@
     "slug": "apodeko",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 832,
     "timeDay": 967,
     "timeWeek": 854,
     "timeMonth": 881,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2025-01-23": 11,
       "2024-11-05": 19
     }
   },
@@ -78,17 +78,16 @@
     "slug": "vp-agentur",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 992,
     "timeWeek": 722,
     "timeMonth": 707,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-01-23": 10,
       "2024-11-05": 18
     }
   },
