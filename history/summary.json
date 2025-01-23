@@ -43,7 +43,7 @@
     "time": 1225,
     "timeDay": 1655,
     "timeWeek": 1188,
-    "timeMonth": 1244,
+    "timeMonth": 1257,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2024-12-06": 17,
@@ -55,10 +55,10 @@
     "url": "https://www.apodeko.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 832,
@@ -67,6 +67,7 @@
     "timeMonth": 881,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2025-01-23": 1,
       "2024-11-05": 19
     }
   },
@@ -75,18 +76,19 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vp-agentur.de.ico",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
+    "time": 692,
     "timeDay": 1073,
     "timeWeek": 696,
     "timeMonth": 700,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2024-11-05": 18
     }
   },
