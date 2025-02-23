@@ -64,10 +64,10 @@
     "url": "https://www.apodeko.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 835,
@@ -76,6 +76,7 @@
     "timeMonth": 857,
     "timeYear": 823,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2025-02-12": 21,
       "2024-11-05": 19
     }
@@ -85,9 +86,9 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vp-agentur.de.ico",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -97,6 +98,7 @@
     "timeMonth": 717,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-02-12": 20,
       "2024-11-05": 18
     }
