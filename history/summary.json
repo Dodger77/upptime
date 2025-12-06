@@ -12,7 +12,7 @@
     "uptimeYear": "99.89%",
     "time": 2600,
     "timeDay": 2237,
-    "timeWeek": 2422,
+    "timeWeek": 2403,
     "timeMonth": 2656,
     "timeYear": 2529,
     "dailyMinutesDown": {
@@ -170,9 +170,9 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.46%",
@@ -182,6 +182,7 @@
     "timeMonth": 1556,
     "timeYear": 970,
     "dailyMinutesDown": {
+      "2025-12-06": 0,
       "2025-11-28": 25,
       "2025-11-20": 124,
       "2025-11-19": 37,
