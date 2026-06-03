@@ -56,13 +56,13 @@
     "url": "https://www.apodeko.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.77%",
-    "time": 849,
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 848,
     "timeDay": 641,
     "timeWeek": 707,
     "timeMonth": 754,
@@ -94,7 +94,8 @@
       "2026-04-06": 74,
       "2026-04-10": 57,
       "2026-04-12": 44,
-      "2026-05-10": 98
+      "2026-05-10": 98,
+      "2026-06-03": 5
     }
   },
   {
@@ -102,9 +103,9 @@
     "url": "https://www.vp-agentur.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.vp-agentur.de.ico",
     "slug": "vp-agentur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.77%",
@@ -140,7 +141,8 @@
       "2026-04-06": 74,
       "2026-04-10": 57,
       "2026-04-12": 43,
-      "2026-05-10": 93
+      "2026-05-10": 93,
+      "2026-06-03": 0
     }
   },
   {
@@ -150,14 +152,14 @@
     "slug": "fantasy-heaven",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "86.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.94%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "99.00%",
     "time": 962,
-    "timeDay": 808,
+    "timeDay": 742,
     "timeWeek": 831,
-    "timeMonth": 870,
+    "timeMonth": 867,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2025-07-15": 35,
