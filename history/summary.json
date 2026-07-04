@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.apodeko.de.ico",
     "slug": "apodeko",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "95.16%",
-    "uptimeYear": "98.60%",
+    "uptime": "99.59%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "98.58%",
     "time": 979,
     "timeDay": 833,
     "timeWeek": 896,
@@ -228,7 +228,7 @@
       "2026-06-24": 83,
       "2026-06-28": 292,
       "2026-06-27": 1,
-      "2026-07-04": 0
+      "2026-07-04": 76
     }
   }
 ]
