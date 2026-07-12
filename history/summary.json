@@ -152,16 +152,16 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "98.54%",
-    "time": 980,
-    "timeDay": 1029,
-    "timeWeek": 924,
-    "timeMonth": 1155,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "85.80%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "98.52%",
+    "time": 981,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 1145,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-07-15": 35,
@@ -229,7 +229,7 @@
       "2026-06-28": 292,
       "2026-06-27": 1,
       "2026-07-04": 219,
-      "2026-07-12": 54
+      "2026-07-12": 204
     }
   }
 ]
