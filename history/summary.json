@@ -4,9 +4,9 @@
     "url": "https://www.ceresana.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ceresana.com.ico",
     "slug": "ceresana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
@@ -27,7 +27,8 @@
       "2026-01-03": 32,
       "2026-03-08": 77,
       "2026-05-05": 69,
-      "2026-08-19": 27
+      "2026-08-19": 27,
+      "2026-08-24": 0
     }
   },
   {
@@ -150,12 +151,12 @@
     "slug": "fantasy-heaven",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "98.34%",
     "uptimeWeek": "98.47%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "98.43%",
     "time": 978,
-    "timeDay": 801,
+    "timeDay": 836,
     "timeWeek": 880,
     "timeMonth": 909,
     "timeYear": 999,
