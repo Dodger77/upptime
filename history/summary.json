@@ -4,17 +4,17 @@
     "url": "https://www.ceresana.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ceresana.com.ico",
     "slug": "ceresana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 2638,
-    "timeDay": 2575,
-    "timeWeek": 2308,
-    "timeMonth": 2491,
-    "timeYear": 2677,
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.88%",
+    "time": 2639,
+    "timeDay": 2818,
+    "timeWeek": 2402,
+    "timeMonth": 2507,
+    "timeYear": 2678,
     "dailyMinutesDown": {
       "2025-10-08": 29,
       "2025-10-14": 23,
@@ -29,7 +29,7 @@
       "2026-05-05": 69,
       "2026-08-19": 27,
       "2026-08-24": 20,
-      "2026-09-06": 0
+      "2026-09-06": 121
     }
   },
   {
@@ -148,13 +148,13 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.83%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "98.39%",
-    "time": 977,
+    "time": 978,
     "timeDay": 992,
     "timeWeek": 849,
     "timeMonth": 882,
@@ -229,7 +229,8 @@
       "2026-08-23": 56,
       "2026-08-25": 26,
       "2026-08-26": 60,
-      "2026-09-01": 167
+      "2026-09-01": 167,
+      "2026-09-06": 0
     }
   }
 ]
