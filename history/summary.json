@@ -5,32 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceresana.com.ico",
     "slug": "ceresana",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2639,
     "timeDay": 3019,
     "timeWeek": 2695,
     "timeMonth": 2562,
     "timeYear": 2681,
-    "dailyMinutesDown": {
-      "2025-10-08": 29,
-      "2025-10-14": 23,
-      "2025-10-24": 23,
-      "2025-11-14": 22,
-      "2025-12-04": 51,
-      "2025-12-19": 24,
-      "2025-12-20": 102,
-      "2026-01-02": 35,
-      "2026-01-03": 32,
-      "2026-03-08": 77,
-      "2026-05-05": 69,
-      "2026-08-19": 27,
-      "2026-08-24": 20,
-      "2026-09-06": 121
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HI Fondswelt",
@@ -38,26 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fondswelt.hansainvest.com.ico",
     "slug": "hi-fondswelt",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1671,
     "timeDay": 2648,
     "timeWeek": 2497,
     "timeMonth": 2465,
     "timeYear": 1821,
-    "dailyMinutesDown": {
-      "2025-12-06": 18,
-      "2026-06-24": 484,
-      "2026-06-23": 113,
-      "2026-06-28": 401,
-      "2026-06-30": 351,
-      "2026-06-29": 96,
-      "2026-07-01": 229,
-      "2026-08-19": 45
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Apodeko",
@@ -148,16 +124,16 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.36%",
-    "time": 979,
-    "timeDay": 1089,
-    "timeWeek": 933,
-    "timeMonth": 900,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "71.65%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "98.28%",
+    "time": 980,
+    "timeDay": 1118,
+    "timeWeek": 957,
+    "timeMonth": 906,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-10-09": 771,
@@ -230,7 +206,7 @@
       "2026-09-01": 167,
       "2026-09-06": 126,
       "2026-09-08": 134,
-      "2026-09-14": 0
+      "2026-09-14": 408
     }
   }
 ]
