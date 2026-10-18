@@ -14,7 +14,7 @@
     "timeDay": 2540,
     "timeWeek": 2760,
     "timeMonth": 2689,
-    "timeYear": 2703,
+    "timeYear": 2702,
     "dailyMinutesDown": {
       "2025-10-24": 23,
       "2025-11-14": 22,
@@ -45,7 +45,7 @@
     "timeDay": 2496,
     "timeWeek": 2632,
     "timeMonth": 2633,
-    "timeYear": 1941,
+    "timeYear": 1942,
     "dailyMinutesDown": {
       "2025-12-06": 18,
       "2026-06-24": 484,
@@ -114,7 +114,7 @@
     "timeDay": 604,
     "timeWeek": 661,
     "timeMonth": 739,
-    "timeYear": 703,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-11-11": 22,
       "2025-11-28": 22,
@@ -146,9 +146,9 @@
     "url": "https://www.fantasy-heaven.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fantasy-heaven.de.ico",
     "slug": "fantasy-heaven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.48%",
@@ -228,7 +228,8 @@
       "2026-09-08": 134,
       "2026-09-14": 408,
       "2026-09-27": 61,
-      "2026-09-26": 8
+      "2026-09-26": 8,
+      "2026-10-18": 0
     }
   }
 ]
